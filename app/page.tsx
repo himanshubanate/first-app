@@ -37,6 +37,7 @@ export default function Home() {
           height={37}
           priority
         />
+        himanshu
       </div>
 
       <div className={styles.grid}>
@@ -83,7 +84,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Deploy <span>-&gt;</span>
+            Himanshu <span>-&gt;</span>
           </h2>
           <p>
             Instantly deploy your Next.js site to a shareable URL with Vercel.
